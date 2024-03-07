@@ -2,6 +2,8 @@
 
 Repositori ini berisi skrip untuk ESP32 yang memungkinkan pengguna untuk memasukkan nilai top up melalui keypad dan mengenkripsi token menggunakan algoritma XOR dengan sebuah kunci tertentu. Skrip ini juga menyediakan fungsi untuk mendekripsi token dan mengonversinya kembali ke nilai top up.
 
+Demo : https://wokwi.com/projects/391671413533118465
+
 ## Persyaratan
 - Papan pengembangan ESP32
 - Modul keypad
